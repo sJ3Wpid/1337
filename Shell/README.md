@@ -1,6 +1,6 @@
 # Shell stuff
 
-## Reverse Shell ([More Info](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md))
+## Reverse Shell ([More Info](https://www.revshells.com))
 - netcat
 ```
 nc -lvnp 1234
