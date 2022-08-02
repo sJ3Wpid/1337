@@ -1,6 +1,6 @@
 # Shell stuff
 
-## Reverse Shell ([More Info](https://www.revshells.com))
+## Reverse Shell ([Online App](https://www.revshells.com))
 - netcat
 ```
 nc -lvnp 1234
