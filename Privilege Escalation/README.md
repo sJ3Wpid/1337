@@ -8,3 +8,4 @@
 `curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh`
 - [LinEnum](https://github.com/rebootuser/LinEnum) (simpler)
 - ` sudo -l `
+- ` sudo bash `
