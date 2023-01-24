@@ -36,3 +36,8 @@ stty raw -echo
 fg
 ```
 > press `Enter`
+
+## Uploading files
+```
+python -m http.server 8000
+```
