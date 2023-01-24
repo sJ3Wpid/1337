@@ -5,7 +5,6 @@
 - BurpSuite
 ## DirBuster
 - gobuster
-`gobuster dir -u http://TARGET_IP -w /home/kali/wordlists/DirBuster/directory-list-2.3-small.txt`
+`gobuster dir -u http://TARGET_IP -w /usr/share/wordlists/YOUR_WORDLIST`
 ## Spider
 - gospider
-
