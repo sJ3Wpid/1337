@@ -2,4 +2,5 @@
 ## Power Tools
 > Win + R
 - `msconfig`
+- `compmgmt.msc`
 - `lusrmgr.msc`
