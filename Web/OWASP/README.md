@@ -10,10 +10,14 @@
 ## OWASP top 10 (2021):
 
 ### 1. Broken Access Control
+- Cookies (eg. PHPSESSID)
+- [JWT tokens](https://jwt.io/)
 
 ### 2. Cryptographic Failures
 
 ### 3. Injection
+- SQL injection
+- XSS (Corss Site Scripting)
 
 ### 4. Insecure Design
 
